@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@daily-co/daily-js": "^0.66.0",
+    "@daily-co/daily-react": "^0.19.1",
+    "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "react-draggable": "^4.4.6",
+    "recoil": "^0.7.7"
   },
   "devDependencies": {
     "postcss": "^8",
